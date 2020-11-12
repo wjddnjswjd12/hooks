@@ -1,10 +1,10 @@
 import React from "react";
-import Info from "./Info";
+import SassComponent from "./SassComponent.js";
 
 function App() {
   return (
     <div className="App">
-      <Info />
+      <SassComponent />
     </div>
   );
 }
